@@ -1,0 +1,15 @@
+{
+  "lock_all" : "Bloqueja tot",
+  "unlock_all" : "Desbloqueja tot",
+  "locked_doors": "Portes bloquejades: ",
+  "popup_door_unlock_shortly_title" : "No es pot fer unlock shortly la porta",
+  "popup_door_unlock_shortly_content" : "Primer bloqueja la porta",
+  "popup_door_propped_title" : "La porta esta propped",
+  "popup_door_propped_content" : "S'ha de tancar la porta per poder bloquejar",
+  "popup_door_lock_title" : "No es pot bloquejar la porta",
+  "popup_door_lock_content" : "Primer tanca la porta",
+  "popup_door_open_title" : "No es pot obrir la porta",
+  "popup_door_open_content" : "Primer desbloqueja la porta",
+  "popup_area_title" : "No es pot bloquejar l'area",
+  "popup_area_content" : "Primer tanca totes les portes"
+}

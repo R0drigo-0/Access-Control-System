@@ -1,0 +1,15 @@
+{
+  "lock_all" : "Bloquear todo",
+  "unlock_all" : "Desbloquear todo",
+  "locked_doors": "Puertas bloqueadas: ",
+  "popup_door_unlock_shortly_title" : "No se puede hacer unlock shortly",
+  "popup_door_unlock_shortly_content" : "Primero bloquea la puerta",
+  "popup_door_propped_title" : "Puerta esta propped",
+  "popup_door_propped_content" : "Hay que volver a cerrar para poder bloquear",
+  "popup_door_lock_title" : "No se puede bloquear la puerta",
+  "popup_door_lock_content" : "Primero cierra la puerta",
+  "popup_door_open_title" : "No se puede abrir la puerta",
+  "popup_door_open_content" : "Primero desbloquea la puerta",
+  "popup_area_title" : "No se puede bloquear area",
+  "popup_area_content" : "Primero cierra todas las puertas"
+}

@@ -1,0 +1,15 @@
+{
+  "lock_all" : "Lock all",
+  "unlock_all" : "Unlock all",
+  "locked_doors": "Locked doors: ",
+  "popup_door_unlock_shortly_title" : "Unlock shortly is unavailable",
+  "popup_door_unlock_shortly_content" : "First lock the door",
+  "popup_door_propped_title" : "Door is propped",
+  "popup_door_propped_content" : "Is required to close the door for locking",
+  "popup_door_lock_title" : "Door can't be locked",
+  "popup_door_lock_content" : "First close the door",
+  "popup_door_open_title" : "Door can't be open",
+  "popup_door_open_content" : "First unlock the door",
+  "popup_area_title" : "Area can't be locked",
+  "popup_area_content" : "First close all the doors"
+}
