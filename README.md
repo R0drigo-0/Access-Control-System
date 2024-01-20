@@ -16,21 +16,21 @@ The app was programed to desing **internationalization** (i18n) and **localizati
 ### Images
 #### Dark and white theme
 <div align="center">
-<img src="assets/Dark_White_Theme.png" width="500">
+<img src="assets/Dark_White_Theme.png">
 </div>
 
 #### Multiple languages
 <div align="center">
-<img src="assets/Multiple_Languages.png" width="500">
+<img src="assets/Multiple_Languages.png">
 </div>
 
 #### Select doors 
 <div align="center">
-<img src="assets/Select_Doors.png" width="500">
+<img src="assets/Select_Doors.png">
 </div>
 
 #### Actions doors
 <div align="center">
-<img src="assets/Actions_and_PopUp.png" width="500">
+<img src="assets/Actions_and_PopUp.png">
 </div>
 
