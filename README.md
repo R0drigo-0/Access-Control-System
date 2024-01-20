@@ -13,23 +13,23 @@ The app was programed to desing **internationalization** (i18n) and **localizati
 * **Lock/Unlock:** If the door is locked the icon is green, otherwise is red.
 * **Unlock shorly:** If the door is locked it can be unlocked for 10 seconds, where the icon specify the time.
 
-### Images
-#### Dark and white theme
+## Images
+### Dark and white theme
 <div align="center">
 <img src="assets/Dark_White_Theme.png">
 </div>
 
-#### Multiple languages
+### Multiple languages
 <div align="center">
 <img src="assets/Multiple_Languages.png">
 </div>
 
-#### Select doors 
+### Select doors 
 <div align="center">
 <img src="assets/Select_Doors.png">
 </div>
 
-#### Actions doors
+### Actions doors
 <div align="center">
 <img src="assets/Actions_and_PopUp.png">
 </div>
