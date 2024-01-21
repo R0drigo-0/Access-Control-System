@@ -10,7 +10,7 @@ The app was programed to desing **internationalization** (i18n) and **localizati
 
 ### The doors have the following functions:
 * **Open/Close:** If the door is open the icon is green, otherwise is red.  
-* **Lock/Unlock:** If the door is locked the icon is green, otherwise is red.
+* **Lock/Unlock:** If the door is unlocked the icon is green, otherwise is red.
 * **Unlock shorly:** If the door is locked it can be unlocked for 10 seconds, where the icon specify the time.
 
 ## Images
